@@ -2,7 +2,9 @@ const {
     map,
     add5
 } = require('./array-map.js')
+//import functions
 
+//define array for test
 const array = [1, 2, 3];
 
 describe('validator module', () => {

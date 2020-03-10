@@ -5,6 +5,7 @@ const map = (arr, func) => {
         //apply the function to each item in array
         result[i] = func(arr[i])
     }
+    //return modified array
     return result;
 };
 
