@@ -1,7 +1,7 @@
 const {
   map,
   add5
-} = require('./array-map.js')
+} = require('./array-map.js');
 //import functions
 
 //define array for test
